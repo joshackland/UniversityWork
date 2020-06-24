@@ -1,0 +1,4 @@
+megafoldermaker.sh
+photo.jpg
+.
+filenames.sh
